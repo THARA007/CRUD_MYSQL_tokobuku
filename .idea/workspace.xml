@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cdac32a-a86b-4e79-8d58-582d4da8917a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6" />
+  <component name="ProjectId" id="22JbKkPkOPLNI5zx5Z24CQl3QCz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awesome_web" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ujksql\database" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cdac32a-a86b-4e79-8d58-582d4da8917a" name="Default Changelist" comment="" />
+      <created>1639558575854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639558575854</updated>
+      <workItem from="1639558577652" duration="16596000" />
+      <workItem from="1639664576773" duration="3170000" />
+      <workItem from="1639721873361" duration="3617000" />
+      <workItem from="1641898574862" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="0" key="#PHP" timestamp="1639559183737">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="0" key="#PHP/0.0.1366.768@0.0.1366.768" timestamp="1639559183737" />
+    <state x="413" y="82" key="FileChooserDialogImpl" timestamp="1641898735055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="82" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1641898735055" />
+    <state x="495" y="292" key="NewPhpFileDialog" timestamp="1639730186599">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="495" y="292" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1639730186599" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1639580450170">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1639580450170" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin/proses-edit.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
